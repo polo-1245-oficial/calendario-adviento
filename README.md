@@ -1,1 +1,3 @@
-lo publicaré el 24, ahora me da pereza fuerte
+lo publicaré el 24, ahora me da pereza fuerte,
+
+publicado
